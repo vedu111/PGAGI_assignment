@@ -2,6 +2,9 @@
 
 A Next.js 15 + TypeScript application that aggregates personalized content (News, Movies, Social) with live filtering, drag & drop ordering, infinite scrolling, and trend analysis.
 
+<img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/f63804ac-1348-4b21-97df-a45772284440" />
+
+
 ## Contents
 
 - Overview
